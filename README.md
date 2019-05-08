@@ -1,1 +1,1 @@
-# Discord.js
+# Discord.js programming. (OUTDATED)
